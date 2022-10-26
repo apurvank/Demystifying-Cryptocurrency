@@ -1,4 +1,4 @@
-# DemystifyingCryptocurrency
+# Demystifying Cryptocurrency
 
 Data storytelling through visualizations for a layman about Rise of cryptocurrency
 
